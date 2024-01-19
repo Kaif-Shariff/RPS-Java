@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors <br /> Made with Java in Android Studio
+# Rock-Paper-Scissors <br /> <h5>Made with Java in Android Studio</ h5>
 
 
 ## Main Menu
