@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-## Made with Java in Android Studio
+Made with Java in Android Studio
 
 ## Main Menu
 ![Home](https://github.com/Kaif-Shariff/RPS-Java/assets/93507427/497b35f8-9884-4fb4-a7da-090c56140a08)
