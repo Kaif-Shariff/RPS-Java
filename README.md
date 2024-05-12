@@ -19,7 +19,11 @@ By installing this app from a source other than the official app store, you ackn
 - This repository provides the `.apk` of the app.
 
 ## Main Menu
-![Home](https://github.com/Kaif-Shariff/RPS-Java/assets/93507427/497b35f8-9884-4fb4-a7da-090c56140a08)
+|          Main Menu           |
+| :--------------------------: |
+| ![Home](https://github.com/Kaif-Shariff/RPS-Java/assets/93507427/497b35f8-9884-4fb4-a7da-090c56140a08) |
+
+
 
 ## Game
 ![Game](https://github.com/Kaif-Shariff/RPS-Java/assets/93507427/e57afc42-7393-407f-8c49-7066112c2cce)
