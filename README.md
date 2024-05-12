@@ -18,8 +18,7 @@ By installing this app from a source other than the official app store, you ackn
 - This game is made in Android Studio with java programming language.
 - This repository provides the `.apk` of the app.
 
-## Main Menu
-|          Main Menu           |
+|         ## Main Menu           |
 | :--------------------------: |
 | ![Home](https://github.com/Kaif-Shariff/RPS-Java/assets/93507427/497b35f8-9884-4fb4-a7da-090c56140a08) |
 
